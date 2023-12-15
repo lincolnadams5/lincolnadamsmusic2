@@ -1,0 +1,30 @@
+body{
+    background-color: #f6f6f6;
+}
+.navigationStyle{
+    font-style: oblique;
+}
+.mainTextStyle {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+.titleTextStyle {
+    font-size:larger;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.common{
+    border: 2px solid white;
+    position: absolute;
+}
+.leftbody{
+    top: 114px;
+    left: 114px;
+}
+.rightbody{
+    top: 114px;
+    right: 114px;
+}
+.bottom {
+    bottom: 5px;
+    height: 1080px;
+}
